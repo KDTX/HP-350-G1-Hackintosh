@@ -8,7 +8,6 @@ MacOS Catalina 10.15.7
 |------------------------|-----------------------|
 | CPU (Intel i5 4200U)   | ✅ Working            |
 | IGPU (Intel HD 4400)   | ✅ Working            |
-| DGPU (Radeon HD 8670M) | ❌ Not Working        |
 | Wi-Fi (Atheros AR5B125)| ✅ Working            |
 | Audio (IDT IDT92HD95)  | ✅ Working            |
 | Ethernet (Realtek)     | ✅ Working            |
@@ -17,7 +16,8 @@ MacOS Catalina 10.15.7
 | Card Reader (Realtek)  | ✅ Working            |
 | USB Ports              | ✅ Working            |
 | Battery Status         | ✅ Working            |
-| Sleep/Wake             | ❌ Not Working        |
 | Audio Jack             | ✅ Working            |
 | Keyboard               | ✅ Working            |
 | Webcam                 | ✅ Working            |
+| Sleep/Wake             | ❌ Not Working        |
+| DGPU (Radeon HD 8670M) | ❌ Not Working        |
